@@ -1,0 +1,38 @@
+# Install: pip install -r requirements.txt
+
+# Deep Learning & CV
+torch
+torchvision
+opencv-python
+opencv-contrib-python
+albumentations
+ultralytics
+mediapipe
+
+# NLP
+transformers
+datasets
+accelerate
+spacy
+gensim
+textblob
+sentence-transformers
+
+# Biology
+biopython
+scikit-bio
+
+# ML
+scikit-learn
+xgboost
+lightgbm
+
+# Data Science
+pandas
+numpy
+matplotlib
+seaborn
+
+# Tools
+gradio
+jupyter
