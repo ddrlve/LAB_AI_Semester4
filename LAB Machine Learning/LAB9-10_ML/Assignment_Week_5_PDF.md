@@ -4,7 +4,7 @@ MODEL SELECTION AND REGULARIZATION
 
 Nama: Dian Rakhmawati Lestari
 
-NIM: *(tulis NIM kamu di sini)*
+NIM: _(tulis NIM kamu di sini)_
 
 ---
 
@@ -83,11 +83,11 @@ model_ridge.fit(X_train, y_train)
 
 ### Perbandingan Hasil
 
-| Model | Train R² | Test R² | Train RMSE | Test RMSE | Mean CV Score |
-|-------|----------|---------|------------|-----------|---------------|
-| Baseline (Degree 15) | 0.651 | -0.268 | 0.517 | 0.906 | -3.05 × 10¹¹ |
-| Reduced Degree (Degree 4) | 0.411 | 0.277 | 0.672 | 0.684 | -21.70 |
-| Ridge Regularization (Degree 15) | 0.329 | 0.184 | 0.717 | 0.727 | -181.77 |
+| Model                            | Train R² | Test R² | Train RMSE | Test RMSE | Mean CV Score |
+| -------------------------------- | -------- | ------- | ---------- | --------- | ------------- |
+| Baseline (Degree 15)             | 0.651    | -0.268  | 0.517      | 0.906     | -3.05 × 10¹¹  |
+| Reduced Degree (Degree 4)        | 0.411    | 0.277   | 0.672      | 0.684     | -21.70        |
+| Ridge Regularization (Degree 15) | 0.329    | 0.184   | 0.717      | 0.727     | -181.77       |
 
 ### Interpretasi
 
@@ -107,4 +107,4 @@ Secara praktis, jika tujuannya adalah mendapatkan prediksi terbaik pada data bar
 
 Visualisasi lengkap dapat dilihat pada notebook.
 
-Google Colab Link: *(paste link Colab kamu di sini)*
+Google Colab Link: _(paste link Colab kamu di sini)_
